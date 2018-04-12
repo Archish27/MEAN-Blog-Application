@@ -21,6 +21,6 @@ app.use(express.static(__dirname + '/client/dist/'))
 app.get("/",(req,res)=>{
    res.sendfile(path.join(__dirname+'/client/dist/index.html'))
 });
-app.listen(3000);
+app.listen(8080);
 
 
