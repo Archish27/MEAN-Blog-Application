@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Archish27/MEAN-Blog-Application#readme",
   "dependencies": {
+    "angular2-flash-message": "^1.0.2",
+    "angular2-flash-messages": "^2.0.5",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "^1.18.2",
     "cors": "^2.8.4",
